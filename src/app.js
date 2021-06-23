@@ -1,6 +1,6 @@
 import './css/index.scss'
 import './js/index'
-import 'jquery'
 import 'popper.js'
 import 'bootstrap'
 import 'bootstrap/dist/css/bootstrap.css'
+import 'jquery'
