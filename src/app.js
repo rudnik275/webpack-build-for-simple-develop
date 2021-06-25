@@ -1,5 +1,5 @@
-import './css/index.scss'
 import './js/index'
+import './css/index.scss'
 import 'popper.js'
 import 'bootstrap'
 import 'bootstrap'
